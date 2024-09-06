@@ -4,7 +4,10 @@ import plotly.express as px
 import pandas as pd
 
 # Lee el archivo CSV
-df = pd.read_csv('DatosPS.csv')
+file_path = '../Enunciado/DatosPS.csv'
+df = pd.read_csv(file_path)
+df
+
 
 custom_order = ['diciembre', 'enero', 'febrero', 'marzo', 'abril', 'mayo', 
                'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre']
