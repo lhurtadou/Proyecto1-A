@@ -116,47 +116,47 @@ output_style = {
 def calcular_respuesta(hour, temperature, wind_speed, visibility, solar_radiation, rainfall,
                        season, holiday, functioning_day, dia_semana, mes, momento_dia):
 
-    intercept = -1142.1650
-    coef_hour = -32.7942
-    coef_temperature = 34.3792
-    coef_wind_speed = 21.5287
-    coef_visibility = 0.1910
-    coef_solar_radiation = 15.0780
-    coef_rainfall = -65.7037
+    intercept = -1114.2488
+    coef_hour = -25.5986
+    coef_temperature = 30.6237
+    coef_wind_speed = 24.3676
+    coef_visibility = 0.1330
+    coef_solar_radiation = 28.5253
+    coef_rainfall = -7.433e-13
 
     # Coeficientes de las dummies
-    coef_season_spring = -236.5135
-    coef_season_summer = -328.9380
-    coef_season_winter = -187.8360
+    coef_season_spring = -217.5825
+    coef_season_summer = -270.4350
+    coef_season_winter = -241.3621
 
-    coef_holiday_no = 133.2183
-    coef_functioning_day_yes = 964.6037
+    coef_holiday_no = 161.8398
+    coef_functioning_day_yes = 983.8418
 
     # Coeficientes de los días de la semana (domingo como base)
-    coef_dia_lunes = 73.7999
-    coef_dia_martes = 102.1828
-    coef_dia_miercoles = 106.6679
-    coef_dia_jueves = 67.7315
-    coef_dia_viernes = 131.9731
-    coef_dia_sabado = 62.6662
+    coef_dia_lunes = 95.7357
+    coef_dia_martes = 148.5544
+    coef_dia_miercoles = 110.0293
+    coef_dia_jueves = 93.5541
+    coef_dia_viernes = 158.7148
+    coef_dia_sabado = 74.6656
 
     # Coeficientes de los meses (abril como base)
-    coef_mes_enero = -43.0294
-    coef_mes_febrero = -122.4082
-    coef_mes_marzo = -42.3584
-    coef_mes_mayo = 89.5938
-    coef_mes_junio = 267.9437
-    coef_mes_julio = -204.6970
-    coef_mes_agosto = -392.1847
-    coef_mes_septiembre = -286.5197
-    coef_mes_octubre = -67.6903
-    coef_mes_noviembre = -34.6675
-    coef_mes_diciembre = -22.3984
+    coef_mes_enero = -81.7086
+    coef_mes_febrero = -118.2155
+    coef_mes_marzo = -110.6664
+    coef_mes_mayo = 99.1059
+    coef_mes_junio = 205.8651
+    coef_mes_julio = -174.9433
+    coef_mes_agosto = -301.3568
+    coef_mes_septiembre = -253.7242
+    coef_mes_octubre = -45.3016
+    coef_mes_noviembre = -85.8435
+    coef_mes_diciembre = -41.4381
 
     # Coeficientes del momento del día (madrugada como base)
-    coef_momento_manana = 489.3914
-    coef_momento_tarde = 669.6380
-    coef_momento_noche = 1227.5251
+    coef_momento_manana = 479.4287
+    coef_momento_tarde = 657.0179
+    coef_momento_noche = 1095.5844
 
     Y = intercept
 
