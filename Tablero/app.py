@@ -392,4 +392,4 @@ def update_output(temperatura, hour, wind_speed, visibility, solar_radiation, ra
 
 # Corre la aplicación
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=True, host ="0.0.0.0")
