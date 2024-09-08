@@ -2,10 +2,11 @@
 En el contexto de los servicios de bicicletas compartidas, asegurar la sostenibilidad financiera del sistema es crucial para su éxito a largo plazo. La optimización de los ingresos y la gestión eficiente de los costos son aspectos fundamentales para mantener la operatividad y cumplir con las expectativas de rentabilidad. Sistema de Bicicletas Compartidas: Visualización y Simulación posee dos enfoques de visualización uno enfocado hacía el comportamiento del número de bicicletas alquiladas de acuerdo con momento del día, día de la semana y mes. Por otra parte, se presenta un diagrama de dispersión mediante un menú desplegable que permite la visualización de cada una de las variables explicativas del modelo conforme con factores climáticos y ambientales. 
 
 <div style="text-align:center;">
-    <img src="image.png" alt="Descripción" style="width:400px;">
-    <img src="image-1.png" alt="Descripción" style="width:400px;">
-    <img src="image-2.png" alt="Descripción" style="width:400px;">
+    <img src="image.png" alt="Descripción" style="max-width:300px; height:auto;">
+    <img src="image-1.png" alt="Descripción" style="max-width:300px; height:auto;">
+    <img src="image-2.png" alt="Descripción" style="max-width:300px; height:auto;">
 </div>
+
 
 
 
