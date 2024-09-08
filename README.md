@@ -3,7 +3,7 @@ En el contexto de los servicios de bicicletas compartidas, asegurar la sostenibi
 
 <div style="text-align:center;">
     <img src="image.png" alt="Descripción" style="max-width:300px; height:auto;">
-    <img src="image-1.png" alt="Descripción" style="max-width:300px; height:auto;">
+    <img src="image-3.png" alt="Descripción" style="max-width:300px; height:auto;">
     <img src="image-2.png" alt="Descripción" style="max-width:300px; height:auto;">
 </div>
 
