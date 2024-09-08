@@ -17,6 +17,6 @@ En el contexto de los servicios de bicicletas compartidas, asegurar la sostenibi
 4.	Análisis comparativo del número de bicicletas rentadas frente a factores climáticos y ambientales.
 
 # Autores
-Gabriela Correa- mg.correa@uniandes.edu.co 
-Camila Luna- m.lunav@uniandes.edu.co 
-Laura Hurtado- l.hurtadou@uniandes.edu.co
+1. Gabriela Correa- mg.correa@uniandes.edu.co 
+2. Camila Luna- m.lunav@uniandes.edu.co 
+3. Laura Hurtado- l.hurtadou@uniandes.edu.co
